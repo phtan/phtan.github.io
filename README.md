@@ -1,8 +1,8 @@
 Dedicated to the G!D of Abraham and the prophets, Almighty Creator, for as long as He will let His servant like myself, (G!D knows where and who His other servants are, and I do not know) glorify Him, who is unseen and is not unmindful of your deeds. Glory be to He who is Sovereign over the Here-after
 ===============
 
-Blessed is He who hath given His people rest. May all nations come to know that our LORD is G!D; that there is no
-other lord other than G!D; that there is no other G!D other than G!D
+Blessed is He who hath given His people rest. May all nations come to know that our lord is G!D; that there is no
+other lord other than G!D; that there is no other god other than G!D
 
 What makes an altar sacred? Is it the altar? Or is it the temple that makes the altar sacred?
 
