@@ -1,7 +1,40 @@
 :root {
+	/* a rose by any other name smells as sweet */
 	--base3: #fdf6e3;
+	--bg: #fdf6e3;
+	
+	/* other flowers */
+	--base2: #eee8d5;
+	--base0: #839496;
+	--baseEm: #586e75;
+	
+	--blue: #268bd2;
+	--green: #859900;
+	--cyan: #2aa198;
 }
 
 body {
 	background-color: var(--base3);
+}
+
+p {
+	color: var(--base0);
+}
+
+a:link {
+	background-color: var(--base2);
+	color: var(--blue);
+}
+
+/* mouse over link*/
+a:hover {
+	color: var(--green);
+}
+
+a:visited {
+	color: var(--cyan);
+}
+
+h3 {
+	color: var(--baseEm);
 }
