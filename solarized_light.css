@@ -23,9 +23,6 @@ apparently by a Ethan Schoonover.
 body {
 	background-color: var(--base3);
 	font-family: monospace;
-}
-
-p, ul, ol {
 	color: var(--base0);
 }
 
