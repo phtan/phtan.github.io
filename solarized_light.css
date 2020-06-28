@@ -1,0 +1,7 @@
+:root {
+	--base3: #fdf6e3;
+}
+
+body {
+	background-color: var(--base3);
+}
