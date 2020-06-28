@@ -27,8 +27,7 @@ Dedicated to the god of Abraham and the prophets, Almighty Creator - for
 as long as He will let His servant like myself, (G!D knows where and 
 who His other servants are, and I do not know) glorify Him.
 
-### Let me quote from the Bible - well, hey, I can pretty well quote
-from the Bible, if I want
+### Let me quote from the Bible - well, hey, I can pretty well quote from the Bible, if I want
 
 > Jesus left the temple and was walking away when his disciples came up 
 to him to call his attention to its buildings. “Do you see all these 
