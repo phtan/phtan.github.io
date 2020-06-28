@@ -25,7 +25,7 @@ body {
 	font-family: monospace;
 }
 
-p {
+p, ul, ol {
 	color: var(--base0);
 }
 
