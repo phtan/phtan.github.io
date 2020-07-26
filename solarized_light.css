@@ -46,6 +46,19 @@ h3 {
 
 /* design-ey stuff */
 
+#youkoso, #it_says_menu {
+	margin-bottom: 40px;
+}
+
+
 li + li, div + div { 
     margin-top: 30px;
+}
+
+#nav, #some_header, #some_footer {
+	text-align: center;
+}
+
+#links {
+	font-style: italic;
 }
