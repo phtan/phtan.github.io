@@ -43,3 +43,9 @@ a:visited {
 h3 {
 	color: var(--baseEm);
 }
+
+/* design-ey stuff */
+
+li + li, div + div { 
+    margin-top: 30px;
+}
