@@ -55,7 +55,7 @@ li + li, div + div {
     margin-top: 30px;
 }
 
-#nav, #some_header, #some_footer {
+#nav, #some_header {
 	text-align: center;
 }
 
