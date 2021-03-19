@@ -24,7 +24,7 @@ research studio known as [Hundred Rabbits](https://100r.co/).
 ### Dedication
 
 Dedicated to the god of Abraham and the prophets, Almighty Creator - for 
-as long as He will let His servant, like myself, glorify Him. (G!D knows where and 
+as long as He will let His servant (me) glorify Him. (G!D knows where and 
 who His other servants are, and I do not know).
 
 ### Let me quote from the Bible - well, hey, I can pretty well quote from the Bible, if I want
