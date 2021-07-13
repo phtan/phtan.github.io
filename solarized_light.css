@@ -55,6 +55,10 @@ li + li, div + div {
     margin-top: 30px;
 }
 
+tr:nth-child(even) {
+  background-color: var(--base2);
+}
+
 #nav, #some_header {
 	text-align: center;
 }
