@@ -56,7 +56,7 @@ li + li, div + div {
 }
 
 tr:nth-child(even) {
-  background-color: var(--base2);
+  background-color: #dddddd;
 }
 
 #nav, #some_header {
