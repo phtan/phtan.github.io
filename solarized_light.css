@@ -23,7 +23,7 @@ apparently by a Ethan Schoonover.
 
 body {
 	/* background-color: var(--base3); */
-	background-color: #002b36;
+	background-color: #002b36; /* dark green */
 	font-family: 'Menlo', serif;
 	color: var(--base2);
 }
@@ -60,7 +60,7 @@ li + li, div + div {
 /* this sets a table's rows to alternate in background colour
 
 tr:nth-child(even) {
-  background-color: var(--base2);
+  background-color: #6c71c4; /* violet */
 }
 */
 #nav, #some_header {
