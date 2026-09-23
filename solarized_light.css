@@ -7,7 +7,7 @@ apparently by a Ethan Schoonover.
 
 :root {
 	/* a rose by any other name smells as sweet */
-	--darkBase：#002b36;
+	
 	--base3: #fdf6e3;
 	--bg: #fdf6e3;
 	
@@ -23,7 +23,7 @@ apparently by a Ethan Schoonover.
 
 body {
 	/* background-color: var(--base3); */
-	background-color: var(--darkBase);
+	background-color: #002b36;
 	font-family: 'Brush Script MT', cursive;
 	color: var(--base0);
 }
