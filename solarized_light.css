@@ -57,12 +57,12 @@ li + li, div + div {
     margin-top: 30px;
 }
 
-/* this sets a table's rows to alternate in background colour
+/* this sets a table's rows to alternate in background colour */
 
 tr:nth-child(even) {
   background-color: #6c71c4; /* violet */
 }
-*/
+
 #nav, #some_header {
 	text-align: center;
 }
